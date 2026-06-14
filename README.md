@@ -35,7 +35,7 @@ This repository contains Python programming projects, assignments, and coursewor
 ### 📊 Data Processing
 - Tour de France Wrap-up
 - Words Utility – Text processing tool
-- Stamps Program 
+- Stamps Program - Turtle Graphics
 
 ## Author
 
